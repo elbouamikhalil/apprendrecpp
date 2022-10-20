@@ -1,0 +1,4 @@
+Entrer un Rouleau
+Sortir une serie de rouleaux
+Visualiser le magasin
+Quitter
